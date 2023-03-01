@@ -74,7 +74,7 @@ Step 3: Install Active Directory
 - Continue clicking next until installation.
 - After installation to continue click on the flag with the yellow exclamation point to complete the installation.
 - Add a new forest and set the domain name to what you want. 
-- Continue setting up untill you have intallation section and installed Active Directory.
+- Continue setting up untill you are in the intallation section and installed Active Directory.
 - The VM will restart after installation
 </p>
 <br />
