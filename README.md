@@ -143,7 +143,7 @@ Step 6: Setup Remote Desktop for non-administrative users on Client-1
 <p>
 Step 7 (optional): Create a bunch of additional users and attempt to log into client-1 with one of the users
 
-- Go back to DC-1 and open powershell ice and as a administrator.
+- Go back to DC-1 and open powershell ice as a administrator.
 - Create and new file and paste the contents of this [script](https://docs.google.com/document/d/125TqjP753saKlv98uvSpBGr6cCFUAqJL7W8y7ymLYEs/edit) into in it.
 - Run the script and log in as one of the users with the password being password1 
 </p>
